@@ -1,5 +1,5 @@
 #BASE Image
-FROM node:16
+FROM node:latest
 
 #Working directory
 WORKDIR /usr/src/app
